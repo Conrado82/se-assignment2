@@ -1,0 +1,4 @@
+what i have learned is the measuere of how much work a team completes in each iteration helping predict future 
+progress
+A burndown chart help track the remaining work overtimme.
+together this helps a team plan better, adjust to a lot of work load,  and to have a steady progress  
